@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          1. Review Apps in Production Branch for Review Apps
+          1. Commit in Master Branch for Review Apps
         </p>
         <a
           className="App-link"
